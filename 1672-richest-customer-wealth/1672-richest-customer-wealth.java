@@ -5,7 +5,7 @@ class Solution {
             // when you start a new row, take a new sum for that row
             int sum = 0;
             for (int anInt : ints) {
-                sum += anInt;
+                 sum += anInt;
             }
             // now we have sum of accounts of person
             // check with overall ans
